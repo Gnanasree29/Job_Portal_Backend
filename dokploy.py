@@ -3,6 +3,7 @@ import requests
 API_URL = "http://13.203.44.195:3000/api/project.all"
 api_key = "cxCzSWqnVfmXdRCAMlabEfjOkKQoOjSQofyzDIEbwRIUDBiFIlWiJIqiqWBXoBel"
 app_name = "jobportal-backend-eqovpo"
+#http://13.203.44.195:3000/api/application/deploy
 
 def get_application_id():
    """Fetch Application ID"""
